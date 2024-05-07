@@ -465,13 +465,12 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![IMG-20240416-WA0007](https://github.com/AnnBlessy/simplecalculator/assets/119477835/5d925a06-aecc-451a-af81-b7aac0c0bb3f)
+![Screenshot 2024-05-07 181520](https://github.com/VIKASHAR/simplecalculator/assets/119405655/6a5c952c-3a45-4a45-9b38-27803602eb68)
+![Screenshot 2024-05-07 181530](https://github.com/VIKASHAR/simplecalculator/assets/119405655/ee5395ba-d78d-4589-8591-f27ad1eb06de)
+![Screenshot 2024-05-07 181538](https://github.com/VIKASHAR/simplecalculator/assets/119405655/0b9836f4-19cb-47f8-9371-407d96873949)
+![Screenshot 2024-05-07 181544](https://github.com/VIKASHAR/simplecalculator/assets/119405655/1d0141ff-785d-478b-8060-ccac0879bd64)
 
-![IMG-20240416-WA0008](https://github.com/AnnBlessy/simplecalculator/assets/119477835/9ddc8210-cee5-4d57-9caf-8b83c2a962be)
 
-![IMG-20240416-WA0009](https://github.com/AnnBlessy/simplecalculator/assets/119477835/6da48419-9609-41ac-861d-25e3889f09e3)
-
-![IMG-20240416-WA0006](https://github.com/AnnBlessy/simplecalculator/assets/119477835/3fef326b-34ce-4b73-857e-38cac0781cc9)
 
 ## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
